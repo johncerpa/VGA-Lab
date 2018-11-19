@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Oct 06 16:21:11 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : LaboratorioVGA
+Top-level Entity Name : LaboratorioVGA
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 1,990 / 114,480 ( 2 % )
+    Total combinational functions : 1,979 / 114,480 ( 2 % )
+    Dedicated logic registers : 102 / 114,480 ( < 1 % )
+Total registers : 102
+Total pins : 56 / 529 ( 11 % )
+Total virtual pins : 0
+Total memory bits : 16,384 / 3,981,312 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 532 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="31" />
+   <irq preferredWidth="34" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Library/Basic Functions/Clocks; PLLs and Resets/PLL,Library/University Program,Library/Interface Protocols/Transceiver PLL,Library,Library/University Program/Clock,Project/System,Library/Interface Protocols,Project,Library/Basic Functions/Clocks; PLLs and Resets,Library/Basic Functions" />
+ <window width="1100" height="800" x="0" y="0" />
+ <generation synthesis="VHDL" path="_PROJECT_NAME_" />
+</preferences>

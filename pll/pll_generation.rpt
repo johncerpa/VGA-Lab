@@ -1,0 +1,30 @@
+Info: Starting: Create block symbol file (.bsf)
+Info: qsys-generate C:\Users\Estudiante\Desktop\LaboratorioVGA\pll.qsys --block-symbol-file --output-directory=C:\Users\Estudiante\Desktop\LaboratorioVGA\pll --family="Cyclone IV E" --part=EP4CE115F29C7
+Progress: Loading LaboratorioVGA/pll.qsys
+Progress: Reading input file
+Progress: Adding altpll_0 [altpll 17.1]
+Progress: Parameterizing module altpll_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Warning: pll.altpll_0: altpll_0.pll_slave must be connected to an Avalon-MM master
+Info: qsys-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: qsys-generate C:\Users\Estudiante\Desktop\LaboratorioVGA\pll.qsys --synthesis=VHDL --output-directory=C:\Users\Estudiante\Desktop\LaboratorioVGA\pll\synthesis --family="Cyclone IV E" --part=EP4CE115F29C7
+Progress: Loading LaboratorioVGA/pll.qsys
+Progress: Reading input file
+Progress: Adding altpll_0 [altpll 17.1]
+Progress: Parameterizing module altpll_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Warning: pll.altpll_0: altpll_0.pll_slave must be connected to an Avalon-MM master
+Info: pll: Generating pll "pll" for QUARTUS_SYNTH
+Info: altpll_0: "pll" instantiated altpll "altpll_0"
+Info: pll: Done "pll" with 2 modules, 2 files
+Info: qsys-generate succeeded.
+Info: Finished: Create HDL design files for synthesis

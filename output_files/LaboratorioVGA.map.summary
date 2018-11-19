@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Oct 06 16:20:45 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : LaboratorioVGA
+Top-level Entity Name : LaboratorioVGA
+Family : Cyclone IV E
+Total logic elements : 1,990
+    Total combinational functions : 1,979
+    Dedicated logic registers : 102
+Total registers : 102
+Total pins : 56
+Total virtual pins : 0
+Total memory bits : 16,384
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
